@@ -7,6 +7,7 @@ import Contact from './pages/Contact'
 import Product from './pages/Product'
 import Cart from './pages/Cart'
 import Login from './pages/Login'
+import Sign from './pages/Sign'
 import PlaceOrder from './pages/PlaceOrder'
 import Orders from './pages/Orders'
 import One from './pages/One'
@@ -28,6 +29,7 @@ const App = () => {
         <Route path='/place-order' element={<PlaceOrder/>} />
         <Route path='/orders' element={<Orders />} />
         <Route path='/one' element={<One />} />
+        <Route path='/signup' element={<Sign />} />
       </Routes>
       
     </div>
