@@ -1,9 +1,3 @@
-<h1 style="text-align: center; color: #0056b3;">MEDILINK</h1>
-
-<p style="text-align: center; color: #333;">
-    <strong>MEDILINK</strong> is your comprehensive health management platform, combining advanced technology with personalized care to support your health journey. From scheduling doctor appointments to receiving medication reminders, MEDILINK offers a range of features designed to help you stay informed and proactive about your well-being.
-</p>
-
 # MEDILINK
 
 MEDILINK is your comprehensive health management platform, combining advanced technology with personalized care to support your health journey. From scheduling doctor appointments to receiving medication reminders, MEDILINK offers a range of features designed to help you stay informed and proactive about your well-being.
