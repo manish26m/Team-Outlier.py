@@ -10,10 +10,18 @@ const Hero = () => {
     </div>
     <div className='second'>
       <h1>Welcome to MediLink</h1>
-      <div class="card">
-        <h2>Card Title</h2>
-        <p>This is a sample card with a title and some text.</p>
+      <div className='grid'>
+        <div class="card1">
+          <h2>Schedule appointments with ease</h2>
+          <p>Find and book appointments with healthcare providets directly from our platform</p>
+          <button>Learn More</button>
+        </div>
+      <div class="card2">
+        <h2>Medication Reminder</h2>
+        <p>Remember to take your medicines</p>
         <button>Learn More</button>
+      </div>
+
       </div>
     </div>
     </>

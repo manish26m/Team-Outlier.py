@@ -24,9 +24,9 @@
     margin-left: 500px;
 }
 
-.card {
+.card1 {
     width: 300px;
-    height: 200px;
+    height: 250px;
     border: 1px solid #ddd;
     border-radius: 10px;
     padding: 20px;
@@ -34,25 +34,66 @@
     background-color: #fff;
   }
   
-  .card h2 {
+  .card1 h2 {
     font-size: 24px;
     margin-bottom: 10px;
   }
   
-  .card p {
+  .card1 p {
     font-size: 16px;
     color: #666;
   }
   
-  .card button {
+  .card1 button {
     background-color: #4CAF50;
     color: #fff;
     padding: 10px 20px;
+    margin-top: 15px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
   }
   
-  .card button:hover {
+  .card1 button:hover {
     background-color: #3e8e41;
   }
+
+.card2 {
+  width: 300px;
+  height: 250px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+  
+.card2 h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: 2;
+  grid-gap: 10px;
+}
+  
+.card2 p {
+  font-size: 16px;
+  color: #666;
+}
+  
+.card2 button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+.card2 button:hover {
+  background-color: #3e8e41;
+}
