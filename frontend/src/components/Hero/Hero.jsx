@@ -32,8 +32,14 @@ const Hero = () => {
         <p>A community support forum provides a platform for users to ask questions and get answers from experienced community members. This allows users to tap into the collective knowledge and expertise of the community, getting help and guidance from those who have faced similar challenges or have specialized knowledge.</p>
         <button>Visit</button>
       </div>
-      <div class="card">Card 4</div>
+      <div class="card">
+        <img src="https://i.pinimg.com/236x/fb/d4/ea/fbd4ead0cb6811fdb9fa639379e93937.jpg" alt="" />
+        <h1>Nutrition and Diet Planner</h1>
+        <p>Your nutrition and diet planner is a comprehensive tool that helps users plan and manage their meals and snacks ahead of time, increasing the likelihood of making healthier food choices.</p>
+        <button>Visit</button>
+      </div>
     </div>
+    
     <div className='third'>
       <h3>New Feature</h3>
       <h2>Virtual Health Assistant</h2>
@@ -46,6 +52,7 @@ const Hero = () => {
         <br />and goals. From tracking your vital signs to offering expert advice, 
         <br />our virtual health assistant is the perfect tool to help you take control 
         <br />of your health and wellbeing.</p>
+        
     </div>
 
     </>
