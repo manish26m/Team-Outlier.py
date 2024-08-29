@@ -93,36 +93,41 @@ New to MEDILINK? Our guided tour introduces you to all features and functionalit
     git clone https://github.com/yourusername/medilink.git
     ```
 
-2. **Navigate to the project directory:**
+2. **Creating a Virtualo Environment:**
 
     ```bash
-    cd medilink
+    python -m venv env
     ```
+3. **Activating the Environment:**
+   Windows
+   ```bash
+   env\Scripts\activate
+   ```
 
-3. **Install backend dependencies:**
+4. **Install backend dependencies:**
 
     ```bash
     pip install -r backend/requirements.txt
     ```
 
-4. **Install frontend dependencies:**
+5. **Install frontend dependencies:**
 
     ```bash
     cd frontend
     npm install
     ```
 
-5. **Run the development server:**
+6. **Run the development server:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
-6. **Start the backend server:**
+7. **Start the backend server:**
 
     ```bash
     cd ../backend
-    python app.py
+    python main.py
     ```
 
 ## Usage
