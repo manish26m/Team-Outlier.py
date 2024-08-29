@@ -146,10 +146,6 @@ New to MEDILINK? Our guided tour introduces you to all features and functionalit
 
 We welcome contributions to MEDILINK! To get started, please review our [contributing guidelines](CONTRIBUTING.md) and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or support, please reach out to us at [manishm112005@gmail.com](mailto:manishm112005@gmail.com).
