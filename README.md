@@ -66,18 +66,32 @@ New to MEDILINK? Our guided tour introduces you to all features and functionalit
 
 ## Technologies Used
 
-- **Python**: For backend development and data processing.
-- **JavaScript**: For frontend interactivity and dynamic content.
-- **Node.js**: For server-side operations and API management.
-- **React**: For building user interfaces and managing state.
-- **HTML5**: For structuring web content.
-- **CSS3**: For styling and layout.
-- **Flask**: For building the backend API.
-- **Git**: For version control and collaboration.
-- **GitHub**: For hosting the code repository and managing contributions.
-- **SQLAlchemy**: For database interactions and ORM.
-- **OpenAI API**: For integrating advanced AI features.
-- **LangChain**: For enhanced language processing and chatbot capabilities.
+
+## Technologies Used :
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-323232?style=for-the-badge&logo=sqlalchemy&logoColor=red)
+
+![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=langchain&logoColor=blue)
+
 
 ## Installation
 
